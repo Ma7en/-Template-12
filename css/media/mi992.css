@@ -1,0 +1,62 @@
+
+
+/* 
+
+&&& medium 
+
+
+*/
+
+@media (min-width: 992px) {
+    .container {
+        width: 970px;
+    }
+
+
+    /* 8 start stats */
+    .stats .container .box {
+        flex-basis: 25%;
+    }
+
+
+
+    /* 9 start our skills */
+    .our-skills .container > div {
+        flex-basis: 45%;
+    }
+
+
+
+
+
+    /* 12 start pricing */
+    .pricing .plans .plan:hover {
+        box-shadow: 0 2px 15px #00000033;
+        transition: var(--main-transition);
+        transform: translateY(-10px);
+        -webkit-transform: translateY(-10px);
+        -moz-transform: translateY(-10px);
+        -ms-transform: translateY(-10px);
+        -o-transform: translateY(-10px);
+        -webkit-transition: var(--main-transition);
+        -moz-transition: var(--main-transition);
+        -ms-transition: var(--main-transition);
+        -o-transition: var(--main-transition);
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+

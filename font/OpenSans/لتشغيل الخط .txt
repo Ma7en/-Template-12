@@ -1,0 +1,22 @@
+
+/* font-family: 'Open Sans', sans-serif; */
+
+
+/* my font */
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+
+@font-face {
+	font-family: "OpenSans", sans-serif;
+	src: url("../font/OpenSans/OpenSans-Bold.ttf");
+	src: url("../font/OpenSans/OpenSans-BoldItalic.ttf");
+	src: url("../font/OpenSans/OpenSans-ExtraBold.ttf");
+	src: url("../font/OpenSans/OpenSans-ExtraBoldItalic.ttf");
+	src: url("../font/OpenSans/OpenSans-Italic.ttf");
+	src: url("../font/OpenSans/OpenSans-Light.ttf");
+	src: url("../font/OpenSans/OpenSans-LightItalic.ttf");
+	src: url("../font/OpenSans/OpenSans-Regular.ttf");
+	src: url("../font/OpenSans/OpenSans-SemiBold.ttf");
+	src: url("../font/OpenSans/OpenSans-SemiBoldItalic.ttf");
+}

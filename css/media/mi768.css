@@ -1,0 +1,61 @@
+
+/* 
+&&&& samll 
+
+*/
+
+@media (min-width: 768px) {
+    .container {
+        width: 750px;
+    }
+
+
+
+    /* 1 start header */
+    header nav .toggle-menu {
+        display: none;
+    }
+
+
+
+
+    /* 3 start services */
+    .services .services-container {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(450px, 1fr));
+        grid-column-gap: 40px;
+        grid-row-gap: 60px;
+    }
+
+
+
+
+
+
+    /* 5 start portfolio  */
+    .portfolio .imgs-container .box {
+        flex-basis: 50%;
+    }
+
+
+
+
+    /* 8 start stats */
+    .stats .container .box {
+        flex-basis: 50%;
+    }
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+

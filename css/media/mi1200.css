@@ -1,0 +1,34 @@
+
+
+/* 
+
+&&& large 
+
+
+
+*/
+
+@media (min-width: 1200px) {
+    .container {
+        width: 1170px;
+    }
+
+
+    /* 5 start portfolio */
+    .portfolio .imgs-container .box {
+        flex-basis: 25%;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
